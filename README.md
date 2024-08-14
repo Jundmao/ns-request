@@ -1,14 +1,14 @@
 # dx-request
 
 ``js
-import { request, get, post, postJson } from 'ns-request
+import { request, get, post, postJson } from 'ns-request'
 ``
 
 ## apis
 
 ### request
 * config: {
-  _customResponse: false // 是否定制响应处理逻辑
+  returnResponse: false // 是否定制响应处理逻辑
 }
 
 ### get
