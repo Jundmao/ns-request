@@ -1,4 +1,4 @@
-# dx-request
+# ns-request
 
 ``js
 import { request, get, post, postJson } from 'ns-request'
