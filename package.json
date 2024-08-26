@@ -1,6 +1,6 @@
 {
   "name": "ns-request",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "ns-request",
   "main": "dist/main.js",
   "files": [
